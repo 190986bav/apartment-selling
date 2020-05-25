@@ -1,1 +1,1 @@
-# appatrment-selling
+# apartment-selling
